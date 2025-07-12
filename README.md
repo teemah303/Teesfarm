@@ -1,4 +1,4 @@
-# Teesfarm
+# teestech
 A mobile-based farm management system for animal farming, tracking animal health, inventory and financial 
 import React, { useEffect, useState } from 'react';
 import { View, Button, FlatList } from 'react-native';
